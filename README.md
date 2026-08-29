@@ -1,4 +1,4 @@
-# 🌺 Onam Pookalam - 2D Floral Carpet Generator
+# 🌺 Pookalam - Coded Onam Pookalam
 
 A Python-based procedural artwork generator that programmatically renders traditional Onam Pookalam (floral carpets) using `matplotlib` and `numpy`.
 
